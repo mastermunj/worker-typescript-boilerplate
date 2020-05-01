@@ -113,3 +113,8 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .pnp.*
+
+# For source-maps
+worker
+
+.DS_Store
