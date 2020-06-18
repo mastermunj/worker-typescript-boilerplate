@@ -8,7 +8,7 @@
   "scripts": {
     "build": "npm run clean && wrangler build",
     "clean": "rimraf dist coverage worker",
-    "lint": "eslint --ext .js,.ts .",
+    "lint": "eslint .",
     "lint:fix": "npm run lint -- --fix",
     "preview": "npm run clean && env-cmd wrangler preview",
     "preview:watch": "npm run preview -- --watch",
