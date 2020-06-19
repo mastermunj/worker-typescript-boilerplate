@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
-    "target": "es6",
+    "target": "esnext",
     "module": "commonjs",
     "outDir": "./dist",
     "rootDir": "./src",
     "declaration": true,
-    "lib": ["es6", "DOM", "DOM.Iterable", "WebWorker"],
+    "lib": ["esnext", "WebWorker"],
 
     "strict": true,
     "noImplicitAny": true,
