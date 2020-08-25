@@ -54,7 +54,7 @@
     "sort-package-json": "^1.44.0",
     "standard-version": "^9.0.0",
     "ts-jest": "^26.2.0",
-    "ts-loader": "^8.0.2",
+    "ts-loader": "^8.0.3",
     "typescript": "^3.9.7",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
