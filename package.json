@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^2.2.1",
-    "@cloudflare/wrangler": "^1.16.0",
+    "@cloudflare/wrangler": "^1.16.1",
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
     "@types/jest": "^26.0.23",
