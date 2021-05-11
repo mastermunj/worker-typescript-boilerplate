@@ -38,7 +38,7 @@
     "@types/node": "^15.0.2",
     "@types/service-worker-mock": "^2.0.1",
     "@typescript-eslint/eslint-plugin": "^4.23.0",
-    "@typescript-eslint/parser": "^4.22.1",
+    "@typescript-eslint/parser": "^4.23.0",
     "dotenv-webpack": "^7.0.2",
     "env-cmd": "^10.1.0",
     "eslint": "^7.26.0",
