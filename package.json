@@ -33,7 +33,7 @@
     "@cloudflare/workers-types": "^2.2.2",
     "@cloudflare/wrangler": "^1.19.3",
     "@commitlint/cli": "^13.1.0",
-    "@commitlint/config-conventional": "^13.1.0",
+    "@commitlint/config-conventional": "^13.2.0",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.10.1",
     "@types/service-worker-mock": "^2.0.1",
